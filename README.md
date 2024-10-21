@@ -28,3 +28,25 @@
 </p>
 
 
+# 📝Projects
+
+## 1. 🛫 BugiCare
+
+> 독거노인 관리 _(👵🏻 2023 HSU Capstone - BugiCare)_
+> 라즈베리파이와 AI를 활용한 스피커를 통한 어르신 관리 시스템
+> 
+> - 개발기간 : 2022.12.26- 2023.06.03
+> - 핵심 역할 : React를 사용한 복지사 용 웹페이지 개발, thinkerCAD를 사용한 스피커 모델링 및 출력
+>
+>> Back-end
+>> - Language : python3, java  
+>> - Skill : Flask-framework, SpringBoot, MySQL
+>> 
+>> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>
+>> Front-end
+>> - Language : javascript
+>> - Skill : React.js, ReactNative
+>>
+>> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+
