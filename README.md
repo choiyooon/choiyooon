@@ -1,5 +1,6 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHOIYOONSEOK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=チェ・ユンソク&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHOIYOONSEOK&fontSize=90&animation=fadeIn&fontAlign=right&fontAlignY=38&desc=チェ・ユンソク&descAlignY=51&descAlign=62"/>
+
 </p>
 <!--
 **choiyooon/choiyooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
