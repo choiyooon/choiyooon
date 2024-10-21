@@ -45,7 +45,8 @@
 >> Front-end
 >> - Language : JavaScript
 >> - Skill : React.js, ReactNative
->>
+>
+>> [![시연 영상](http://img.youtube.com/vi/6Z1z2PJn43g/0.jpg)](https://youtu.be/6Z1z2PJn43g)
 >> [프로젝트 상세 설명](https://github.com/BugiCare)
 
 ## 2. 🥑 Yomakase 🍎
@@ -63,6 +64,11 @@
 >> Front-end
 >> - Language : Swift, HTML, CSS, JavaScript(AJAX)
 >> - Skill : Xcode, Spring Web
->>
+>
+>> [![시연 영상](https://img.youtube.com/vi/0QZf6FBASxE/0.jpg)](https://www.youtube.com/watch?v=0QZf6FBASxE)
 >> [프로젝트 상세 설명](https://github.com/SCIT45-Yomakase)
+
+
+
+
 
